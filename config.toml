@@ -1,0 +1,10 @@
+baseURL = "https://kernod-group.github.io/blog/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+title = "Kernod Blog"
+theme = "minos"
+
+googleAnalytics = "UA-105822028-1"
+
+publishDir = "docs"
+

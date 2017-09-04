@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kernod Blog</title>
+    <link>https://kernod-group.github.io/blog/</link>
+    <description>Recent content on Kernod Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 04 Sep 2017 21:37:14 +0800</lastBuildDate>
+    
+	<atom:link href="https://kernod-group.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We Are Recruiting!</title>
+      <link>https://kernod-group.github.io/blog/posts/we-are-recruiting/</link>
+      <pubDate>Mon, 04 Sep 2017 21:37:14 +0800</pubDate>
+      
+      <guid>https://kernod-group.github.io/blog/posts/we-are-recruiting/</guid>
+      <description>The Kernod Project needs YOU.
+If you&amp;rsquo;re interested, please send an email to sunqingyao19970825@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
