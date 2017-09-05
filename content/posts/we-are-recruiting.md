@@ -11,7 +11,7 @@ featuredImage: "img/hireme.png"
 
 事实上，作为项目组已有的一位程序员，我并非无法独立完成项目。但是我觉得由一个人负责从 sysadmin 到 UX/UI 的全部工作太吃力了，代码质量可能因此下降，所以希望找一个队友一起写。同时，两个开发者可以互相支持鼓励，这可以让开发过程变得更享受一些。
 
-![hireme](/img/hireme.png)
+![hireme](/blog/img/hireme.png)
 
 ## 工作内容
 
