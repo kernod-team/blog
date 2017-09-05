@@ -5,20 +5,21 @@
     <link>https://kernod-group.github.io/blog/</link>
     <description>Recent content on Kernod Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 04 Sep 2017 21:37:14 +0800</lastBuildDate>
+    <language>zh-hans</language>
+    <lastBuildDate>Mon, 04 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://kernod-group.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>We Are Recruiting!</title>
+      <title>&#34;就差一个程序员了&#34;</title>
       <link>https://kernod-group.github.io/blog/posts/we-are-recruiting/</link>
-      <pubDate>Mon, 04 Sep 2017 21:37:14 +0800</pubDate>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://kernod-group.github.io/blog/posts/we-are-recruiting/</guid>
-      <description>The Kernod Project needs YOU.
-If you&amp;rsquo;re interested, please send an email to sunqingyao19970825@gmail.com</description>
+      <description>&lt;p&gt;了然（Kernod）项目旨在建立一个面向大学生的问答社区，内容将覆盖大学生们关注的各个话题，包括数学、编程、美妆、健身等等。在前期，我们准备以网站的形式为社区搭建平台，现在就差一个程序员了！&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
