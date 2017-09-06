@@ -45,8 +45,8 @@ NULL | NULL | 网站开发与运维
 朱叶 | 17工管 | 市场调研、项目推广、社区管理等
 
 
-## 如何加入
+## 联系方式
 
-如果你有意加入，请给 <a href="mailto:sunqingyao19970825@gmail.com">sunqingyao19970825@gmail.com</a> 发邮件，并在邮件中做简单的自我介绍。
+如果你有任何疑问，或是有意加入，请将问题或自我介绍发送至 <a href="mailto:sunqingyao19970825@gmail.com">sunqingyao19970825@gmail.com</a> 
 
 
