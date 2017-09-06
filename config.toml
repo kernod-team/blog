@@ -1,4 +1,4 @@
-baseURL = "https://kernod-group.github.io/blog/"
+baseURL = "https://kernod-team.github.io/blog/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
 title = "Kernod Blog"
